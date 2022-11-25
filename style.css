@@ -1,0 +1,39 @@
+h2{
+    font-family:arial, "Times New Roman";
+    font-size: 35px;
+    font-style: italic;
+    font-weight: 200;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    color: blue;
+
+}
+p{
+    font-family:arial, "Times New Roman";
+    font-size: 14px;
+    font-style:normal;
+    text-align: justify;
+    color:black;
+
+}
+
+h3{
+    font-family:arial, "Times New Roman";
+    font-size: 18px;
+    font-style: normal;
+    text-align: left;
+    text-decoration: underline;
+    text-transform: capitalize;
+    color: black;
+}
+
+h4{
+    font-family:arial, "Times New Roman";
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    text-decoration: underline;
+    text-transform: capitalize;
+    color: black;
+}
